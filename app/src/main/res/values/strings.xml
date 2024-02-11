@@ -15,4 +15,6 @@
     <string name="first">first</string>
     <string name="second">second</string>
     <string name="third">third</string>
+    <string name="menu">Меню</string>
+    <string name="MyComposeApp">MyComposeApp</string>
     </resources>
